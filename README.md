@@ -3,6 +3,9 @@
 ## Project Description
 While applying to conferences, it was difficult to find all opportunities because information was scattered across the web.  
 While using Microsoft CMT, I discovered the "All Conferences" section, which listed multiple conferences at once.  
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 To make this list usable:
 
 - I copied the full conference list into a text file.
